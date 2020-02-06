@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921389552670",
+    "firebase_url": "https://picnic-brew-crew.firebaseio.com",
+    "project_id": "picnic-brew-crew",
+    "storage_bucket": "picnic-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921389552670:android:4b682a8f474e896f694a0f",
+        "android_client_info": {
+          "package_name": "com.picnic.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921389552670-nk7fdv3psaefla8p6h5bqr4uv658ph9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi965YUKzfw_YKg9bCzm6rwWk3GQcfwIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921389552670-nk7fdv3psaefla8p6h5bqr4uv658ph9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
